@@ -2,3 +2,5 @@ __pycache__/
 *.env
 dist/
 *.egg-info/
+__pycache__/
+*.env
